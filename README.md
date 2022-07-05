@@ -1,5 +1,5 @@
 # Flyway postgres squash script
-Script to squash flyway migrations to a single migration file with a postgres database. Feel free to extend or copy and paste this script into your own projects!
+Script to squash flyway migrations to a single migration file based on the current schema of a postgres database. Feel free to extend or copy and paste this script into your own projects!
 
 
 This script is based on: https://medium.com/att-israel/flyway-squashing-migrations-2993d75dae96.  
